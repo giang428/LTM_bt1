@@ -1,4 +1,4 @@
-# LTM_bt1
+# LTM - Bài tập 1
 
 Sử dụng luồng byte vào ra với đối tượng, viết ứng dụng sau:
 
